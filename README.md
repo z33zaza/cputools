@@ -13,6 +13,7 @@ Como instalar:
 -Baixe o aplicativo CPU-Tools v1.x.rar
 -Após o download, clique sobre a notificação de download concluido ou localize o arquivo no diretorio de downloads do seu dispositivo.
 -Extraia o conteudo comprimido para o diretorio desejado.
+-Execute o teste do antivirus para certificar de programa malicioso
 -Abra a pasta do aplicativo e execute CPU-T.exe
 -O sistema operacional ira pedir a sua permissão, clique em ok.
 -O aplicativo será exibido ao lado do relógio do computador e após minimizado, 

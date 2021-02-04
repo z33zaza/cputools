@@ -19,6 +19,13 @@ Como instalar:
 você poderá acessar pelo icone vermelho na bandeija do relógio.
 
 -------------------------------------------------------------------------------
+Assista um pequeno tutorial de utiliz 
+-------------------------------------------------------------------------------
+
+Confira o aplicativo no youtub. Versão 1.0 no vide o
+https://youtu.be/1yFTkZvUWnM
+
+-------------------------------------------------------------------------------
 Contato:
 -------------------------------------------------------------------------------
 

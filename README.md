@@ -19,6 +19,7 @@ Como instalar:
 -O aplicativo será exibido ao lado do relógio do computador e após minimizado, 
 você poderá acessar pelo icone vermelho na bandeija do relógio.
 
+Senha: 123456
 -------------------------------------------------------------------------------
 Assista um pequeno tutorial de utiliz 
 -------------------------------------------------------------------------------
